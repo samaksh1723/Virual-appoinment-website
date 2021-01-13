@@ -2,7 +2,7 @@ html{
     scroll-behavior: smooth;
 }
 .bgimg{
-	background-image: url(../IMG/Maternity_Services_Hero_Feature.png);
+	background-image: url(Maternity_Services_Hero_Feature.png);
     background-size: 100% 100%;
     background-attachment: fixed;
     width: 100%;
